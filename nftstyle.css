@@ -1,0 +1,180 @@
+body {
+  min-height: 100vh;
+  padding: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #0d192b;
+  font-family: "Outfit", sans-serif;
+}
+
+body .container {
+  max-width: 20%;
+  min-width: 320px;
+  margin: auto;
+  height: auto;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .container .main {
+  padding: 22px;
+  height: auto;
+  background-color: #14253d;
+  border-radius: 15px;
+}
+
+body .container .main .main-img {
+  width: 100%;
+  display: block;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+body .container .main .main-img img {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+
+body .container .main .main-img:after {
+  content: url(./images/icon-view.svg);
+  background: rgba(0, 255, 247, 0.5);
+  position: absolute;
+  inset: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  opacity: 0;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  border-radius: 8px;
+}
+
+body .container .main .main-img:hover::after {
+  opacity: 1;
+}
+
+body .container .main .title {
+  color: white;
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+body .container .main p {
+  color: #8bacda;
+}
+
+body .container .main-text-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row nowrap;
+          flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 0 15px 0;
+}
+
+body .container .main-text-wrapper .text-price, body .container .main-text-wrapper .text-date {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .container .main-text-wrapper .text-price img, body .container .main-text-wrapper .text-date img {
+  padding-right: 8px;
+}
+
+body .container .main-text-wrapper .text-price span {
+  color: #00fff7;
+}
+
+body .container .main-text-wrapper .text-date span {
+  color: #8bacda;
+}
+
+body .container hr {
+  background-color: #2f415b;
+  width: 100%;
+  border-style: none;
+  height: 1px;
+}
+
+body .container .text-footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row nowrap;
+          flex-flow: row nowrap;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-weight: 400;
+  border-top: white;
+}
+
+body .container .text-footer img {
+  width: 8%;
+  height: 8%;
+  border: 2px solid white;
+  border-radius: 50px;
+}
+
+body .container .text-footer .text-footer-name {
+  color: #8bacda;
+  font-weight: 500;
+}
+
+body .container .text-footer .name1 {
+  padding: 0 10px 0 15px;
+}
+
+body .container .text-footer .name2 {
+  color: white;
+}
+
+body .container .text-footer .name2:hover {
+  color: #00fff7;
+}
+
+body .attribution {
+  font-size: 11px;
+  text-align: center;
+  padding-top: 50px;
+  color: #8bacda;
+}
+
+body .attribution a {
+  color: white;
+}
+/*# sourceMappingURL=nftstyle.css.map */
