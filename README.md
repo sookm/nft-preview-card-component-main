@@ -8,7 +8,8 @@
       <summary> <b>👉click here </b> </summary>
       <div markdown="1">       
       <br>
-       ### Welcome! 👋
+            
+###Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
@@ -97,8 +98,9 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-      </div>
-      <br>
+            
+ </div>
+ <br>
 </details>
 
 ### Welcome! 👋
