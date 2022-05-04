@@ -1,5 +1,5 @@
 # *Frontend Mentor - NFT preview card component* 🙋‍
-This is a solution to the [NFT preview card component on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
+*This is a solution to the [NFT preview card component on Frontend Mentor]*(https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 #### *Table of contents*
 - [*Overview*](#overview)
@@ -20,21 +20,21 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-* *Desktop Design*
+* ***Desktop Design***
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/desktop-preview.jpg?raw=true" style="width:600px;"/>
 <!-- ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg) -->
 
 ### *Screenshot-Solution*
 
-* *Desktop*
+* ***Desktop***
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:600px;"/>
 <!-- ![](./design/0123.png) -->
 
-* *Mobile*
+* ***Mobile***
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/mobile-design.jpg?raw=true" style="width:250px;"/>
 <!-- ![](./design/00p2.png) -->
 
-* *Custom Design*
+* ***Custom Design***
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/ezgif.com-gif-maker.gif?raw=true" style="width:600px;"/>
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/00p2.png?raw=true" style="width:600px;"/>
 <!-- ![](./design/ezgif.com-gif-maker.gif) -->
