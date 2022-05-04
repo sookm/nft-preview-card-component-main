@@ -16,8 +16,8 @@
 ## *Overview*
 ### *The Challenge*
 
-Your users should be able to:
- ✔ View the optimal layout depending on their device's screen size
+Your users should be able to: <br>
+ ✔ View the optimal layout depending on their device's screen size <br>
  ✔ See hover states for interactive elements
 
 * ***Desktop Design***
