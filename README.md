@@ -24,7 +24,7 @@ Your users should be able to: <br>
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/desktop-preview.jpg?raw=true" style="width:800px;"/>
 <!-- ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg) -->
 
-### *Screenshot-Solution*
+### *Screenshot-Solution*🙋‍♀️
 
 * ***Desktop***
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:800px;"/>
@@ -40,10 +40,10 @@ Your users should be able to: <br>
 <!-- ![](./design/ezgif.com-gif-maker.gif) -->
 <!-- ![](./design/00p2.png) -->
 
-### *Links*
-📎[link](https://nft-preview-card-component-main-delta-one.vercel.app/)
+### *Links* 
+📎[Link](https://nft-preview-card-component-main-delta-one.vercel.app/)
 
-## *My process*
+## *My process* 🙋‍♀️
 ### *Built with*
 - Sass
 - Flexbox
