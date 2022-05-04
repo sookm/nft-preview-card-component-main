@@ -8,6 +8,7 @@ This HTML & CSS only challenge is perfect for anyone just starting out or anyone
 
 ### *My Solution* 🙋‍
 #### *Desktop*
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:20px;"/>
 ![](./design/0123.png)
 #### *Mobile*
 ![](./design/00p2.png)
