@@ -21,13 +21,13 @@ Your users should be able to: <br>
  ✔ See hover states for interactive elements
 
 * ***Desktop Design***
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/desktop-preview.jpg?raw=true" style="width:600px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/desktop-preview.jpg?raw=true" style="width:800px;"/>
 <!-- ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg) -->
 
 ### *Screenshot-Solution*
 
 * ***Desktop***
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:600px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:800px;"/>
 <!-- ![](./design/0123.png) -->
 
 * ***Mobile***
@@ -35,8 +35,8 @@ Your users should be able to: <br>
 <!-- ![](./design/00p2.png) -->
 
 * ***Custom Design***
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/ezgif.com-gif-maker.gif?raw=true" style="width:600px;"/>
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/00p2.png?raw=true" style="width:600px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/ezgif.com-gif-maker.gif?raw=true" style="width:800px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/00p2.png?raw=true" style="width:800px;"/>
 <!-- ![](./design/ezgif.com-gif-maker.gif) -->
 <!-- ![](./design/00p2.png) -->
 
