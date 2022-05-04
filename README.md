@@ -8,12 +8,12 @@ This HTML & CSS only challenge is perfect for anyone just starting out or anyone
 
 ### *My Solution* 🙋‍
 #### *Desktop*
-![](./design/00p2.png)
+![](./design/0123.png)
 #### *Mobile*
 ![](./design/00p2.png)
 #### *Custom Design*
 ![](./design/ezgif.com-gif-maker.gif)
-![](./design/0123.png)
+![](./design/00p2.png)
 
            
 <hr>
