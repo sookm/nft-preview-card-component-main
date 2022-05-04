@@ -48,7 +48,7 @@ Your users should be able to: <br>
 - Sass
 - Flexbox
 - HTML5, CSS
-- Vercel 
+- [Vercel](https://vercel.com/) 
            
 <hr>
 
