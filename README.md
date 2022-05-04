@@ -4,24 +4,28 @@ This HTML & CSS only challenge is perfect for anyone just starting out or anyone
 ### *Contents of table*
 
 ### *Desktop Design*
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/desktop-preview.jpg?raw=true" style="width:500px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/desktop-preview.jpg?raw=true" style="width:600px;"/>
 <!-- ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg) -->
 
 ### *My Solution* 🙋‍
+
 #### *Desktop*
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:500px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:600px;"/>
 <!-- ![](./design/0123.png) -->
+
 #### *Mobile*
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/mobile-design.jpg?raw=true" style=""/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/mobile-design.jpg?raw=true" style="width:300px;"/>
 <!-- ![](./design/00p2.png) -->
+
 #### *Custom Design*
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/ezgif.com-gif-maker.gif?raw=true" style="width:500px;"/>
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/00p2.png?raw=true" style="width:500px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/ezgif.com-gif-maker.gif?raw=true" style="width:600px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/00p2.png?raw=true" style="width:600px;"/>
 <!-- ![](./design/ezgif.com-gif-maker.gif) -->
 <!-- ![](./design/00p2.png) -->
 
            
 <hr>
+
 ### How to challenge on Frontend Mentor 
 #### Welcome! 👋
 
