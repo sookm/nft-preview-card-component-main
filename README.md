@@ -1,17 +1,16 @@
 # *Frontend Mentor - NFT preview card component* 🙋‍
 
 #### *Table of contents*
-- Overview
- - The challenge
- - Screenshot - Solution
- - Links
-- My process
- - Built with
- - What I learned
- - Continued development
- - Useful resources
-- Author
-- Acknowledgments
+- [*Overview*](#overview)
+  - [*The challenge*](#the-challenge)
+  - [*Screenshot-Solution*](#screenshot-solution)
+  - [*Links*](#links)
+- [*My process*](#my-process)
+  - [*Built with*](#built-with)
+  - [*What I learned*](#what-i-learned)
+  - [*Continued development*](#continued-development)
+  - [*Useful resources*](#useful-resources)
+- [*Author*](#author)
 
 ## *Overview*
 ### *The Challenge*
@@ -19,14 +18,14 @@
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/desktop-preview.jpg?raw=true" style="width:600px;"/>
 <!-- ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg) -->
 
-### *Screenshot - Solution *
+### *Screenshot-Solution*
 
 * *Desktop*
 <img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/0123.png?raw=true" style="width:600px;"/>
 <!-- ![](./design/0123.png) -->
 
 * *Mobile*
-<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/mobile-design.jpg?raw=true" style="width:300px;"/>
+<img src="https://github.com/sookm/nft-preview-card-component-main/blob/main/design/mobile-design.jpg?raw=true" style="width:250px;"/>
 <!-- ![](./design/00p2.png) -->
 
 * *Custom Design*
@@ -35,6 +34,11 @@
 <!-- ![](./design/ezgif.com-gif-maker.gif) -->
 <!-- ![](./design/00p2.png) -->
 
+## *My process*
+### *Built with*
+- Sass
+- Flexbox
+- HTML5, CSS
            
 <hr>
 
